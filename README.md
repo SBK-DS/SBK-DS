@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SBK-DS
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on Cyber Security projects, penetration testing. I'm looking forward to work with professionals of Cyber Security to seek and taste the utmost flavour of Cyber Security
+- 👀 I’m interested in Cyber Security & Full Stack Coud Native Development.
+- 🌱 I’m currently learning Cyber Security & Full Stack Coud Native Development.
+- 💞️ I’m looking to collaborate on Cyber Security projects, penetration testing, Front-end, full-stack, and cloud native projects. I'm looking forward to work with professionals of Both the domains to seek and taste the utmost flavour of these domains.
 - 📫 You can contact me through my mail syedbasitkhurshid@gmail.com
 
 <!---
